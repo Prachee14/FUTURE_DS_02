@@ -120,7 +120,8 @@ Based on the analysis, the following recommendations can help reduce customer ch
 ---
 
 ## Dashboard Preview
-<img width="1155" height="641" alt="image" src="https://github.com/user-attachments/assets/80c04f8c-17a3-4af5-9d53-30a6434365d4" />
+<img width="1153" height="647" alt="image" src="https://github.com/user-attachments/assets/ad50bf27-a4a6-4a5c-aaf0-86a2a2851b11" />
+
 
 
 
