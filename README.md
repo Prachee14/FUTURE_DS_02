@@ -134,5 +134,7 @@ This project demonstrates how data analytics can be used to understand customer 
 ---
 
 ## Author
+
 Prachee Shetye
-M.Sc. Statistics and Data Science
+
+MSc Statistics and Data Science Student
